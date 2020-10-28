@@ -16,7 +16,7 @@ The `setup.sh` file is also provided for convenience.
 
 ## Talks
 
-[TDC Recife 2020](talks/tdc-recife.ipynb)
+[TDC Recife 2020](talks/tdc-recife-2020)
 
 ## Contact
 
