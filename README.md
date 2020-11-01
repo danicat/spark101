@@ -16,8 +16,8 @@ The `setup.sh` file is also provided for convenience.
 
 ## Talks
 
-[DevFest 2020](talks/devfest2020)
-[TDC Recife 2020](talks/tdc-recife-2020)
+1. [DevFest 2020](talks/devfest2020)
+1. [TDC Recife 2020](talks/tdc-recife-2020)
 
 ## Contact
 
